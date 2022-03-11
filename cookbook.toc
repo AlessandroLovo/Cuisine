@@ -1,0 +1,14 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {subsubsection}{\normalsize Roesti di patate e zucca al Camembert}{2}{section*.2}%
+\contentsline {subsubsection}{\normalsize Spaghetti alla zucca e zucchine}{3}{section*.3}%
+\contentsline {subsubsection}{\normalsize Spaghetti cacio e kiwi}{4}{section*.4}%
+\contentsline {subsubsection}{\normalsize Zucca, cipolla e mela caramellate}{5}{section*.5}%
+\contentsline {subsubsection}{\normalsize Caponata autunnale}{6}{section*.6}%
+\contentsline {subsubsection}{\normalsize Insalata Danese}{7}{section*.7}%
+\contentsline {subsubsection}{\normalsize Risotto di zucca al Roquefort e noci}{8}{section*.8}%
+\contentsline {subsubsection}{\normalsize Fusilloni con zucchine alla curcuma}{9}{section*.9}%
+\contentsline {subsubsection}{\normalsize Crema di zucca con formaggio di capra}{10}{section*.10}%
+\contentsline {subsubsection}{\normalsize Carbonara di zucca}{11}{section*.11}%
+\contentsline {subsubsection}{\normalsize Vellutata di zucca con gamberi ubriachi}{12}{section*.12}%
+\contentsline {subsubsection}{\normalsize Linguine porro e aringa}{13}{section*.13}%
