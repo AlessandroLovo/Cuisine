@@ -12,3 +12,4 @@
 \contentsline {subsubsection}{\normalsize Carbonara di zucca}{11}{section*.11}%
 \contentsline {subsubsection}{\normalsize Vellutata di zucca con gamberi ubriachi}{12}{section*.12}%
 \contentsline {subsubsection}{\normalsize Linguine porro e aringa}{13}{section*.13}%
+\contentsline {subsubsection}{\normalsize Spaghetti alla chitarra alle pere}{14}{section*.14}%
