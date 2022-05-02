@@ -3,5 +3,6 @@
 *.fls
 *.log
 *.out
+*.toc
 *.synctex.*
 xcookybooky.pdf
