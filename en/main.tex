@@ -1,0 +1,28 @@
+% !TeX spellcheck = IT_IT, EN_US
+
+\documentclass[11pt, a4 paper]{book}
+
+\usepackage[top=1cm,bottom=2cm,left=2cm,right=2cm]{geometry}
+\usepackage[v1]{subfiles}
+\usepackage[italian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{url}
+\usepackage{hyperref}
+
+\usepackage{xcookybooky}
+
+\begin{document}
+    \frontmatter
+        \pagestyle{empty}
+
+        \tableofcontents
+
+    \mainmatter
+        \subfile{Pastasciutte}
+        \subfile{Risotti}
+        \subfile{Zuppe}
+        \subfile{Insalate}
+        \subfile{Contorni}
+        \subfile{Secondi}
+\end{document}
